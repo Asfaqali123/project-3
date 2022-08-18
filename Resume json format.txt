@@ -1,0 +1,82 @@
+{
+  "about me":{
+    "name":"Asfaq Ali",
+    "email":asfaqali586@gmail.com,
+    "phone": 6381167138,
+    "degree":"B.com",
+    "summary":"Hi im Asfaq im b.com graduate and i work in Assistant Accountant in past couple of years.i have two year experience in acoounts field (GST Filling, Bank Reconciliation, Income Tax Login, Book Keeping, Voucher Entry, Finance Regulation are some)",
+    "location":{
+      "address":7/41 thavakayan street,pallpatti,
+      "postalcode":639205,
+      "city":"karur",
+      "state":"tamilnadu",
+      "country":"india",
+     },
+    "profiles":[
+	 {
+	  "network": "facebook":"Asfak Ali" , 
+	             "Instagram":asfaqali_azu ",
+     }
+     ]
+   }
+    "Work":[
+   {
+     "company":"accounta4",
+	 "position":"assistant accountant",
+	 "startDate":"01-07-2020",
+	 "endDate":"31-07-2022",
+	 "summary": i had worked in last two years in assistant accountant my role is Book Keeping,GST Filling,Bank Reconciliation and some,
+   }
+  ],
+    "education":[
+	{
+	 "matric":[
+	  {
+	   "school name":"oxford matriculation school",
+	   "area":"pallpatti",
+	  }
+     ]
+	 "higher secondary":[
+	  {
+	   "school name":crescent matriculation higher secondary school,
+	   "area":"pallpatti"
+	  }
+	 ]
+	 "college":[
+	   {
+	    "university":"Periyar university",
+	    "institue":"PGP College of Arts and Science",
+	    "area":"nammakkal",
+	    "degree":"Bachelor of Commerce(B.com),
+	    "startDate":01-05-2017,
+	    "endDate":31-04-2020,
+	   }
+	 ]
+	 "courses":[
+	    {
+	     "course-name":"Full Stack Web Developer",
+		 "institue":"Guvi Resaerch Park @(IIT Research Park)",
+		 "domain":IT (Web Developer),
+		 "area":"chennai"
+	    }
+	   ]
+	 "skills":[
+	    {
+		 "name":"Web Developer",
+		 "level":"fresher",
+		 "keyword":[
+			"keyword under this category('html5', 'css', 'javascript', 'react js', 'php', 'mysql', etc)"
+		 ]
+	    }		
+	   ],
+	 "languge":[
+	    {
+		 "languge":"english"
+		 "fluency":"medium"
+	    }
+	  ]
+	  }
+	 ],
+	 "
+},
+  
